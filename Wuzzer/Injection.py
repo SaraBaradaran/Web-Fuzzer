@@ -1,3 +1,14 @@
+#################################################################   
+#								
+# 								
+# 	Creator Name:   Mahdi Heidari, Sara Baradaran		
+# 	Create Date:    July 2021 				
+# 	Module Name:    Wuzzer.py				
+# 	Project Name:   Web Fuzzer	
+#								
+#								
+#################################################################
+
 import re
 import time
 from bs4.builder import FAST
