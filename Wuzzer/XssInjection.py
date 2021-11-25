@@ -1,3 +1,14 @@
+#################################################################   
+#								
+# 								
+# 	Creator Name:   Mahdi Heidari, Sara Baradaran		
+# 	Create Date:    July 2021 				
+# 	Module Name:    Wuzzer.py				
+# 	Project Name:   Web Fuzzer	
+#								
+#								
+#################################################################
+
 from requests.sessions import default_headers
 from Injection import *
 from selenium import webdriver
