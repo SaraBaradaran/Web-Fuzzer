@@ -2,10 +2,10 @@
 
 ## General info
 > Simple Web Fuzzer
-  1. **crawling** : colect all internal url ( [Crawler.py](https://github.com/mheidari98/Web-Fuzzer/blob/main/Wuzzer/Crawler.py) )
-  2. use **Selenium** and **BeautifulSoup** to detect form & input params for fuzzing
-  3. inject payload
-  4. check responses to detect vulnerabilities
+  1. **Crawling** : Collects All Internal URL ( [Crawler.py](https://github.com/mheidari98/Web-Fuzzer/blob/main/Wuzzer/Crawler.py) )
+  2. Uses **Selenium** And **BeautifulSoup** to Detect Form & Input Params For Fuzzing
+  3. Injects Payloads
+  4. Checks Responses to detect vulnerabilities
 ---
 
 ## Requirements
