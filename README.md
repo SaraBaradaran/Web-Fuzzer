@@ -5,26 +5,26 @@
   1. **Crawling** : Collects All Internal URL ( [Crawler.py](https://github.com/mheidari98/Web-Fuzzer/blob/main/Wuzzer/Crawler.py) )
   2. Uses **Selenium** And **BeautifulSoup** to Detect Form & Input Params For Fuzzing
   3. Injects Payloads
-  4. Checks Responses to detect vulnerabilities
+  4. Checks Responses to Detect Vulnerabilities
 ---
 
 ## Requirements
-- python3
-- use virtual environments & install requirements packages ([gist](https://gist.github.com/mheidari98/8ae29b88bd98f8f59828b0ec112811e7)) 
-- chrome web driver : download it from the address below and put it in the **Wuzzer** folder
+- Python3
+- Use Virtual Environments & Install Requirements Packages ([gist](https://gist.github.com/mheidari98/8ae29b88bd98f8f59828b0ec112811e7)) 
+- Chrome Web Driver : Download It From The Address Below And Put It in The **Wuzzer** Folder
   ```
-  chrome:    https://sites.google.com/a/chromium.org/chromedriver/downloads
+  Chrome:    https://sites.google.com/a/chromium.org/chromedriver/downloads
   ```
 
  ---
 
 ## Usage
-  for test on DVWA :
+  For Test on DVWA :
   ```bash
   cd Wuzzer
   python Wuzzer.py --test --XSSi --SQLi --BSQLi --CMDi --BCMDi 
   ```
-  for more options :
+  For More Options :
   ```bash
   python Wuzzer.py -h
   ```
