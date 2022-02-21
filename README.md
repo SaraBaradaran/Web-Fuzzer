@@ -45,14 +45,14 @@
 ---
 
 ## Task-Lists
-- [x] Xss Injecyion attack
-- [x] SQL Injecyion attack
-- [x] Blind SQL Injecyion attack
-- [x] Cmd Injecyion attack
-- [x] Blind Cmd Injecyion attack
-- [ ] complete Document
-- [ ] threading support
-- [ ] use proxy
+- [x] Xss injection attack
+- [x] SQL injection attack
+- [x] Blind SQL injection attack
+- [x] Command injection attack
+- [x] Blind command injection attack
+- [ ] Complete document
+- [ ] Threading support
+- [ ] Use proxy
 
 ---
 
