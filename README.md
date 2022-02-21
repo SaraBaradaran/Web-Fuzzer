@@ -45,21 +45,21 @@
 ---
 
 ## Task-Lists
-- [x] Xss injection attack
-- [x] SQL injection attack
-- [x] Blind SQL injection attack
-- [x] Command injection attack
-- [x] Blind command injection attack
-- [ ] Complete document
-- [ ] Threading support
-- [ ] Use proxy
+- [x] Xss Injection Attack
+- [x] SQL Injection Attack
+- [x] Blind SQL Injection Attack
+- [x] Command Injection Attack
+- [x] Blind Command Injection Attack
+- [ ] Complete Document
+- [ ] Threading Support
+- [ ] Use Proxy
 
 ---
 
 ## Related Link 
 ### Vulnerable Web Applications
 * OWASP Vulnerable Web Applications Directory ([github](https://github.com/OWASP/OWASP-VWAD)) ([owasp](https://owasp.org/www-project-vulnerable-web-applications-directory/))
-* Web vulnerability collection ([github](https://github.com/lotusirous/vulnwebcollection)) 
+* Web Vulnerability Collection ([github](https://github.com/lotusirous/vulnwebcollection)) 
 
 ### Payloads
 * Cheatsheet_XSS_Vectors.txt ([Cheatsheet-God github](https://github.com/OlivierLaflamme/Cheatsheet-God/blob/master/Cheatsheet_XSS_Vectors.txt))
@@ -68,16 +68,16 @@
 * BlindSqli.txt ([sql-injection-payload-list github](https://github.com/payloadbox/sql-injection-payload-list/blob/master/Intruder/detect/Generic_TimeBased.txt))
 
 ### XSS
-* Cross-site scripting (XSS) cheat sheet ([portswigger](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet))
-* XSS njection ([PayloadsAllTheThings github](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection))
+* Cross-Site Scripting (XSS) Cheat Sheet ([portswigger](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet))
+* XSS Injection ([PayloadsAllTheThings github](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection))
 * Cross-Site Scripting (XSS) ([Resources-for-Beginner-Bug-Bounty-Hunters github](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/vulns.md#cross-site-scripting-xss))
 
-### Related work
+### Related Work
 * Most Advanced XSS Scanner ([XSStrike](https://github.com/s0md3v/XSStrike)) 
 * Automatic SQL Injection and database takeover tool ([sqlmap](https://github.com/sqlmapproject/sqlmap)) 
 * Web Fuzzers Review ([pentestbook](https://pentestbook.six2dez.com/others/web-fuzzers-comparision))
 
-### security game
+### Security Game
 * XSS Game By Google ([xss-game](https://xss-game.appspot.com))
 * [xssgame](https://www.xssgame.com/)
 * Alert(1) to Win ([alf.nu](https://alf.nu/alert1))
