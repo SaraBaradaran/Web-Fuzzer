@@ -1,4 +1,4 @@
-# Web-Fuzzer
+# Wuzzer
 
 ## General info
 > Simple Web Fuzzer
